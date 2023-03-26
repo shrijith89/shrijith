@@ -1,3 +1,4 @@
+[![MasterHead](https://irp-cdn.multiscreensite.com/599c5dd6/dms3rep/multi/Thoroughness+in+Testing.gif)](https://shrijith89.io)
 <h1 align="center">Hi 👋, I'm Shrijith</h1>
 <h3 align="center">A passionate Software Test Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.guvi.in%2Fblog%2Fwho-is-an-automation-testing-engineer-how-to-become-one%2F&psig=AOvVaw2ChdYH-0Oj5vbci-ZbvI8A&ust=1679922321387000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODgvLzU-f0CFQAAAAAdAAAAABAZ">
