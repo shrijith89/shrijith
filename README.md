@@ -1,4 +1,4 @@
-[![MasterHead](https://jumpwhere.com/wp-content/uploads/2016/05/kick-ass-automation-tester.jpg)](https://shrijith89.io)
+[![MasterHead](https://bugfender.com/wp-content/uploads/2018/10/automated.gif)](https://shrijith89.io)
 <h1 align="center">Hi 👋, I'm Shrijith</h1>
 <h3 align="center">A passionate Software Test Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://irp-cdn.multiscreensite.com/599c5dd6/dms3rep/multi/Thoroughness+in+Testing.gif">
