@@ -44,17 +44,4 @@ alt="javascript" width="40" height="40"/> </a>
 </p>
 
 <br></br>
-
-#### 📊 GitHub Stats:
-</p>
-<!--Github Stats-->
-#### What my GitHub Stats look like?
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrijith89&show_icons=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrijith89&show_icons=true&layout=compact&langs_count=11"/>
-<!-- <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mMARUF&count_private=true&show_icons=true&theme=cobalt" align="center"/>
-</p> -->
-
-
-<br></br>
 </p>
