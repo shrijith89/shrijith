@@ -57,7 +57,3 @@ What my GitHub Stats look like?
 
 <br></br>
 </p>
-
-
-
-<br></br>
