@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=3281EA&center=true&vCenter=true&width=435&lines=2%2B+years+in+Software+Testing;Automation+%26+Manual+Testing;WebdriverIO+%7C+Cypress+%7C+Selenium)](https://git.io/typing-svg)
 
 
-
 # 💫 About Me:
 🔭 I’m currently working as Test Engineer <br>🤝 I’m curently learning javascript<br>💬 Ask me about Automation Testing<br>⚡ Reach me at **shrijithps89@gmail.com**
 
@@ -14,16 +13,12 @@
 
 
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shrijithps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdmarufrahman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shrijith98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marufrahman" height="30" width="40" /></a>
 </p>
-
 <br></br>
-
 <h3 align="left">Languages:</h3>
 <p align="left">
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
@@ -33,7 +28,7 @@ alt="javascript" width="40" height="40"/> </a>
 </p>
 
 
-
+<br></br>
 <h3 align="left">Tools:</h3>
 <p align="left"> 
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idPvWqIX1T.png?updated=1667619616092" alt="bash" width="40" height="40"/> 
