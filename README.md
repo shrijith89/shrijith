@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=40&pause=1&color=3281EA&center=true&vCenter=true&repeat=false&width=435&lines=PS+Shrijith)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=40&pause=1&color=3281EA&center=true&vCenter=true&repeat=false&width=435&lines=Shrijith+P.S)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=3281EA&center=true&vCenter=true&width=435&lines=2%2B+years+in+Software+Testing;Automation+%26+Manual+Testing;WebdriverIO+%7C+Cypress+%7C+Selenium)](https://git.io/typing-svg)
 
