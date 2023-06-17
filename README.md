@@ -45,7 +45,7 @@ alt="javascript" width="40" height="40"/> </a>
 
 <br></br>
 
-# 📊 GitHub Stats:
+#### 📊 GitHub Stats:
 </p>
 <!--Github Stats-->
 What my GitHub Stats look like?
