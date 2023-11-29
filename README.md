@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working as Test Engineer <br>🤝 I’m curently learning javascript<br>💬 Ask me about Automation Testing<br>⚡ Reach me at **shrijithps89@gmail.com**
+🔭 I’m currently working as Test Engineer <br>🤝 I’m curently learning Python<br>💬 Ask me about Automation Testing<br>⚡ Reach me at **shrijithps89@gmail.com**
 
 <br></br>
 
