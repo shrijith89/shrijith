@@ -1,5 +1,5 @@
 ```java
-public class Main {
+public class AboutMe {
     public static void main(String[] args) {
         Shrijith profile = new Shrijith();
         profile.displayProfile();
