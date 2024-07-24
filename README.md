@@ -13,7 +13,7 @@ class Shrijith {
         
         printSection("About Me", 
             "🔭 Currently working as Test Engineer",
-            "🤝 Currently learning JavaScript",
+            "🤝 Currently learning Playwright",
             "💬 Ask me about Automation Testing",
             "⚡ Reach me at shrijithps89@gmail.com"
         );
