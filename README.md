@@ -29,15 +29,4 @@ class Shrijith {
             "WebdriverIO, Cypress, Playwright, Selenium, Cucumber, Postman, JMeter, Git, JIRA"
         );
     }
-
-    private void printBanner(String name) {
-        System.out.println("********** " + name + " **********");
-    }
-
-    private void printSection(String title, String... details) {
-        System.out.println("\n=== " + title + " ===");
-        for (String detail : details) {
-            System.out.println("-> " + detail);
-        }
-    }
 }
